@@ -1,0 +1,73 @@
+[
+    {
+      "category": "Istorie",
+      "difficulty": "Ușor",
+      "question": "Cine a fost primul domnitor al Țării Românești?",
+      "options": ["Ștefan cel Mare", "Mihai Viteazul", "Mircea cel Bătrân", "Vlad Țepeș"],
+      "answer": "Mircea cel Bătrân"
+    },
+    {
+      "category": "Matematică",
+      "difficulty": "Mediu",
+      "question": "Cât este 12 x 8?",
+      "options": ["96", "88", "108", "100"],
+      "answer": "96"
+    },
+    {
+      "category": "Geografie",
+      "difficulty": "Ușor",
+      "question": "Care este capitala Franței?",
+      "options": ["Paris", "Londra", "Roma", "Berlin"],
+      "answer": "Paris"
+    },
+    {
+      "category": "Știință",
+      "difficulty": "Mediu",
+      "question": "Care este formula chimică a apei?",
+      "options": ["H2O", "CO2", "O2", "H2SO4"],
+      "answer": "H2O"
+    },
+    {
+      "category": "Literatură",
+      "difficulty": "Greu",
+      "question": "Cine a scris romanul 'Ion'?",
+      "options": ["Mihai Eminescu", "George Coșbuc", "Liviu Rebreanu", "Ion Creangă"],
+      "answer": "Liviu Rebreanu"
+    },
+    {
+      "category": "Sport",
+      "difficulty": "Ușor",
+      "question": "Care este sportul național al Japoniei?",
+      "options": ["Sumo", "Karate", "Judo", "Baseball"],
+      "answer": "Sumo"
+    },
+    {
+      "category": "Istorie",
+      "difficulty": "Mediu",
+      "question": "În ce an a avut loc Marea Unire?",
+      "options": ["1918", "1877", "1848", "1945"],
+      "answer": "1918"
+    },
+    {
+      "category": "Geografie",
+      "difficulty": "Mediu",
+      "question": "Care este cel mai mare ocean din lume?",
+      "options": ["Oceanul Atlantic", "Oceanul Indian", "Oceanul Pacific", "Oceanul Arctic"],
+      "answer": "Oceanul Pacific"
+    },
+    {
+      "category": "Matematică",
+      "difficulty": "Greu",
+      "question": "Cât este rădăcina pătrată din 256?",
+      "options": ["14", "15", "16", "17"],
+      "answer": "16"
+    },
+    {
+      "category": "Știință",
+      "difficulty": "Greu",
+      "question": "Care este cel mai greu element chimic natural?",
+      "options": ["Uranium", "Plutoniu", "Osmium", "Iridium"],
+      "answer": "Osmium"
+    }
+  ]
+  

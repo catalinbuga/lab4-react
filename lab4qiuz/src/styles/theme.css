@@ -1,0 +1,30 @@
+
+
+:root {
+    --bg: #ffffff;
+    --text: #000000;
+  }
+  
+  [data-theme="dark"] {
+    --bg: #1e1e1e;
+    --text: #ffffff;
+  }
+  
+  body {
+    background-color: var(--bg);
+    color: var(--text);
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .theme-toggle {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
