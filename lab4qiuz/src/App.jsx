@@ -1,4 +1,4 @@
-// App.jsx - Componenta principală care controlează fluxul paginilor
+
 
 import React, { useState } from 'react';
 import { QuizProvider } from './context/QuizContext';
@@ -8,8 +8,8 @@ import ResultsPage from './components/ResultsPage';
 import ThemeToggle from './components/ThemeToggle';
 
 function App() {
-  const [step, setStep] = useState('start'); // start, quiz, result
-  const [scoreData, setScoreData] = useState(null); // Scorul final
+  const [step, setStep] = useState('start');
+  const [scoreData, setScoreData] = useState(null);
 
   return (
     <QuizProvider>
